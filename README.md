@@ -1,0 +1,2 @@
+This project was made to be able to better find scholarships worth the time to apply for, by including data that cannot be filtered by on the website such as application number and difficulty. 
+The program can be used by anyone by inputting their own university of arizona netID, password, and a mongodb uri.
